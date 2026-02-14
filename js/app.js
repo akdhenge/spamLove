@@ -57,7 +57,7 @@ const SPECIAL_FAILURES = {
   lookalike: "ALERT: Dude!! that kids is someone else's husband now. Suspicious activity logged. Should we be worried?",
   maggi: "That's maggi, not your husband, you bukkad. We know you love both, but focus please.",
   cutie: "I asked you to select my photos, not your own.",
-  dogy: "Wow!! calling me dog wasnt enough, now i look like a dog to you. I am out of here!",
+  dogy: "Wow!! calling me dog wasnt enough, now i look like a dog to you. I am out of Barks!",
 };
 
 const LOADING_TEXTS = [
