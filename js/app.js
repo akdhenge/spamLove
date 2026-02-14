@@ -271,10 +271,12 @@ function handleVerify() {
   document.querySelectorAll(".grid-cell.selected").forEach(c => c.classList.remove("selected"));
   updateProgressBar();
 
+  /*
   // Auto-hide failure message
   setTimeout(() => {
     failureDiv.classList.add("hidden");
   }, 4000);
+  */
 }
 
 function showHints() {
