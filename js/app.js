@@ -38,7 +38,7 @@ const GRID_IMAGES = [
   { src: "images/grid/snake.jpg", isCorrect: false, label: "Street\nFood",    color: "#ff8a65", type: "cutie" },
   { src: "images/grid/shakti.jpeg", isCorrect: true,  label: "Husband\n(disguise)", color: "#1b5e20", type: "husband" },
   { src: "images/grid/nun.jpeg", isCorrect: false, label: "Horror\nMovie",   color: "#37474f", type: "decoy" },
-  { src: "images/grid/pass.jpg", isCorrect: true,  label: "Husband\n(camouflaged)", color: "#4a7c4f", type: "husband" },
+  { src: "images/grid/pass.JPG", isCorrect: true,  label: "Husband\n(camouflaged)", color: "#4a7c4f", type: "husband" },
 ];
 
 /* ===== FAILURE MESSAGES ===== */
